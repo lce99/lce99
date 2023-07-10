@@ -12,10 +12,12 @@ I'm currently navigating the exciting seas of the data science field, one statis
 - 💰 B.S in Financial Engineering, Korea University
 - 📚 Currently pursuing M.S in Statistics, Korea University
 
-## 🏆 Awards
+## 🏆 Awards & Certificates
 
--Honorable Mention, DB 금융경제공모전
-
+- Honorable Mention, DB 금융경제 공모전
+- ADsP (Advanced Data Analytics Semi- Professional) Certification
+- SQLD (SQL Developer) Certification
+- 
 ## 🧠 What I'm Currently Learning
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
