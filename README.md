@@ -18,18 +18,13 @@ I'm currently navigating the exciting seas of the data science field, one statis
 
 ## 🧠 What I'm Currently Learning
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
-![Keras](https://img.shields.io/badge/-Keras-red)
-![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 
 Machine Learning and Deep Learning are not just buzzwords for me - I am actively learning and exploring these areas. From Neural Networks to CNNs, I'm on a mission to make machines intelligent (and hopefully not plan a Skynet situation. 🤞).
 
 ## 💼 Skills & Experience
 
-![R](https://img.shields.io/badge/-R-blue)
-![Python](https://img.shields.io/badge/-Python-yellow)
-![Tidyverse](https://img.shields.io/badge/-Tidyverse-green)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=flat-square&logo=Tidyverse&logoColor=white"/> <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
 
 As you can see, my toolkit is filled with some pretty neat tools. But let's be honest, they are just tools. The real magic is in how we use them, and I tend to use them to seek the truth in data... and sometimes to create some pretty awesome visualizations too!
 
