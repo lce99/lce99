@@ -1,4 +1,4 @@
-# Hello World, I'm [Chungeun Lee]! 👋
+# Hello World, I'm Chungeun Lee! 👋
 
 ![student](https://img.shields.io/badge/-Student-blue)
 ![statistics](https://img.shields.io/badge/-Statistics-red)
