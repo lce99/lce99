@@ -42,7 +42,6 @@ While I do believe in the power of data, I also believe in the power of networki
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/충은-이-654950200/)](https://www.linkedin.com/in/충은-이-654950200/)
-(Currently not using)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2c_gra_ce)](https://www.instagram.com/2c_gra_ce)
 [![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white&link=https://yournotionlink)](https://yournotionlink) 
 (Working on Notion Profile)
