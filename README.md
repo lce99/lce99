@@ -43,7 +43,7 @@ While I do believe in the power of data, I also believe in the power of networki
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/충은-이-654950200/)](https://www.linkedin.com/in/충은-이-654950200/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2c_gra_ce)](https://www.instagram.com/2c_gra_ce)
-[![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white&link=https://yournotionlink)](https://yournotionlink) 
+[![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white&link=https://yournotionlink)](https://scalloped-authority-551.notion.site/2d743a6a59004fca8dd8ea2cef526e4f) 
 (Working on Notion Profile)
 
 > "I'm not great at advice, but can I offer you a sarcastic comment or a statistics pun?" 😉
