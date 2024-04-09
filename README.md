@@ -20,7 +20,7 @@ I'm currently navigating the exciting seas of the data science field, one statis
 
 ## 🧠 What I'm Currently Learning
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> 
 
 Machine Learning and Deep Learning are not just buzzwords for me - I am actively learning and exploring these areas. From Neural Networks to CNNs, I'm on a mission to make machines intelligent (and hopefully not plan a Skynet situation. 🤞).
 
