@@ -46,3 +46,5 @@ While I do believe in the power of data, I also believe in the power of networki
 [![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white&link=https://yournotionlink)](https://scalloped-authority-551.notion.site/2d743a6a59004fca8dd8ea2cef526e4f) 
 
 > "I'm not great at advice, but can I offer you a sarcastic comment or a statistics pun?" 😉
+> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flce99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
