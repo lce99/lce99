@@ -32,6 +32,7 @@ As you can see, my toolkit is filled with some pretty neat tools. But let's be h
 
 ## 💼 Current Work
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5bcHFymBO868O_PnRaTbMHDiZGXSNrcP8g&s" alt="NICE Information Service" width="30"/>
+
 I am currently working at **NICE Information Service (나이스평가정보)** as a Credit Bureau consultant.
 
 
