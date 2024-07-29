@@ -30,6 +30,12 @@ Machine Learning and Deep Learning are not just buzzwords for me - I am actively
 
 As you can see, my toolkit is filled with some pretty neat tools. But let's be honest, they are just tools. The real magic is in how we use them, and I tend to use them to seek the truth in data... and sometimes to create some pretty awesome visualizations too!
 
+## 💼 Current Work
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5bcHFymBO868O_PnRaTbMHDiZGXSNrcP8g&s" alt="NICE Information Service" width="30"/>
+I am currently working at **NICE Information Service (나이스평가정보)** as a Credit Bureau consultant.
+
+
+
 ## 📈 GitHub Stats
 
 ![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=lce99&show_icons=true&count_private=true)
